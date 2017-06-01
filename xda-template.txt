@@ -70,7 +70,7 @@ use this as Thread Title : [ROM][7.1.2][OFFICIAL] AIM ROM [OMS/DUI][Enter device
 [COLOR="royalblue"][B][I]More Goodies Are On Their Way![/I][/B][/COLOR]
 
 [IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/Downloads.png[/IMG]
-[HIDE]"your rom link"[/HIDE]
+[HIDE][URL=DOWNLOAD NOW] ENTER YOUR ROM LINK HERE[/URL][/HIDE]
 
 [IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/meetourteam.png[/IMG]
 [COLOR="Navy"][SIZE=3]
