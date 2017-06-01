@@ -40,7 +40,7 @@ use this as Thread Title : [ROM][7.1.2][OFFICIAL] AIM ROM [OMS/DUI][Enter device
  Double-Tap On Statusbar to Sleep
  [/SIZE][/COLOR][/B][/HIDE]
 
-[B][COLOR="blue"][SIZE="5"]UI :[/COLOR][/SIZE][/B][HIDE]
+[B][COLOR="blue"][SIZE="5"]INTERFACE :[/COLOR][/SIZE][/B][HIDE]
 [B][COLOR="teal"][SIZE="3"]
  DARK/LIGHT THEME
  Custom Density settings
