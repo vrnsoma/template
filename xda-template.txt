@@ -10,7 +10,7 @@
 
 
 
-Thread Title : [ROM][7.1.2][OFFICIAL] AIM ROM [OMS][Date][For yourdevice]
+Thread Title : [ROM][7.1.2][OFFICIAL] AIM ROM [OMS][Date][Enter device name here]
 
 
 
@@ -18,53 +18,54 @@ Thread Title : [ROM][7.1.2][OFFICIAL] AIM ROM [OMS][Date][For yourdevice]
 [CENTER][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/banner.png[/IMG]
 
 [IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/about.png[/IMG][/CENTER]
-[B][COLOR="Black"][CENTER]A ROM brought to you by AIMROM team,[/CENTER][/COLOR][/B]
-[CENTER][COLOR="black"][B]AIMROM[/COLOR]been developed based on CyanogenMod,With the combination of customization features from Various  roms...With full substractum Support officially ,and Will Bring you a Custom ROM with many customization features , high stability , Better battery life,and the Taste of the latest Android essence encapsulated in your smartphone [/B].
+[CENTER][COLOR="black"][B]AIMROM[/COLOR] is based on LineageOS. Our aim is to present to you a combination of unmatched stability,performance,battery life,customizations and sets of usefull features that are picked by our team and testers. We ensure that the sweet taste of latest Android essence stays in your device.[/B].
 
-[B][SIZE="5"][COLOR="Green"]Introducing Nougat based AIMROM for  "Your Device Model"[/COLOR][/SIZE][/B]
+[B][SIZE="5"][COLOR="Green"]Introducing Nougat based AIMROM for "Enter device name here"[/COLOR][/SIZE][/B]
 
 [IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/features.png[/IMG]
-[B]Features of AIM ROM[/B]
+[B]Features of AIMROM[/B]
 
-[B][I][COLOR="green"]EXPLORE THE FREEDOM HUB[/COLOR][/I][/B]
+[B][I][COLOR="green"]DIVE DEEP INTO THE FREEDOM HUB[/COLOR][/I][/B]
 
 [B][COLOR="blue"][SIZE="5"]STATUSBAR :[/COLOR][/SIZE][/B]
 [HIDE]
-[B][COLOR="teal"][SIZE="3"]Superuser indicator on/of
+[B][COLOR="teal"][SIZE="3"]
+ Superuser indicator on/of
  Network Traffic indicators
- Custom carrier label
+ Custom Carrier Label
  Custom Statusbar icons
  Brightness Control
- Double-Tap to Sleep[/SIZE][/COLOR][/B][/HIDE]
+ Double-Tap On Statusbar to Sleep
+ [/SIZE][/COLOR][/B][/HIDE]
 
-[B][COLOR="blue"][SIZE="5"]INTERFACE :[/COLOR][/SIZE][/B]
-[HIDE]
- [B][COLOR="teal"][SIZE="3"] AIM DARK/LIGHT THEME
+[B][COLOR="blue"][SIZE="5"]UI :[/COLOR][/SIZE][/B][HIDE]
+[B][COLOR="teal"][SIZE="3"]
+ DARK/LIGHT THEME
  Custom Density settings
  Media cover art on/off
  Quick settings on lockscreen on/off
  And more..[/SIZE][/COLOR][/B][/HIDE]
  
 [CENTER][B][SIZE="5"][COLOR="blue"]BUTTONS :[/COLOR][/SIZE][/B][/CENTER]
-[HIDE]
-[B][COLOR="teal"][SIZE="3"] Live volume
+[HIDE][B][COLOR="teal"][SIZE="3"]
+ Live volume
  Hardware Key Configuration
  Power Menu Configuration
  Advanced reboot
  FIngerprint vibration
  Fingerprint keystore unlock
- And more..[/SIZE][/COLOR][/B]
-[/HIDE]
+ And more..[/SIZE][/COLOR][/B][/HIDE]
+
 [B][SIZE="5"][COLOR="blue"]MISC :[/COLOR][/SIZE][/B]
-[HIDE]
- [B][COLOR="teal"][SIZE="3"]Alarm blocker
+[HIDE][B][COLOR="teal"][SIZE="3"]
+ Alarm blocker
  System app remover 
  Screenshot Sound
- And more more ...[/SIZE][/COLOR][/B][/HIDE]
+ The list goes on.......
+ [/SIZE][/COLOR][/B][/HIDE]
  
 
-[COLOR="royalblue"][B][I]AND MORE COSTUMIZATION IS ON THE WAY[/I][/B][/COLOR]
-
+[COLOR="royalblue"][B][I]More Goodies Are On Their Way![/I][/B][/COLOR]
 
 [IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/Downloads.png[/IMG]
 [HIDE]"your rom link"[/HIDE]
@@ -83,10 +84,10 @@ Emmanuel N. D. Enlinger(not in xda) -->[B][I][COLOR="green"]Founder/project main
 [CENTER][URL="https://t.me/joinchat/AAAAAEGlvThIxMq8yPB1JA"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/telegram.png[/IMG][/URL]   [URL="https://plus.google.com/communities/111507505190229665939"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/gplus.png[/IMG][/URL]
 [/CENTER]
 [IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/ourgit.png[/IMG]
-[B][URL="http://github.com/AIMrom"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/commgit.png[/IMG][/URL] [/B][/CENTER]
+[B][URL="http://github.com/AIMROM"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/commgit.png[/IMG][/URL] [/B][/CENTER]
 
 [URL="https://www.paypal.me/AIMroms"][CENTER][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/shareyourlove.png[/IMG][/CENTER][/URL]
-[CENTER][B][FONT="Times New Roman"][COLOR="red"]DONATION IS NOT NECESSARY , BUT IT MAY HELP US TO PAY SERVER BILLS, EACH AND EVERY PENNY FROM YOU IS VERY IMPORTANT AND VALUABLE FOR US,[/COLOR] [/FONT][/B]
+[CENTER][B][FONT="Times New Roman"][COLOR="red"]DONATION IS NOT NECESSARY , BUT IT WILL HELP US TO PAY SERVER BILLS, EACH AND EVERY PENNY FROM YOU IS VERY IMPORTANT AND VALUABLE FOR US,[/COLOR] [/FONT][/B]
 
 [B][I][COLOR="blue"][URL="https://www.paypal.me/AIMroms"][COLOR="teal"]If you love our work and want to help us? then click the button[/COLOR][/URL][/COLOR][/I][/B]:angel::angel:[/CENTER]
 [URL="https://www.paypal.me/AIMroms"][CENTER][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/donateusplox.png[/IMG][/CENTER][/URL]
